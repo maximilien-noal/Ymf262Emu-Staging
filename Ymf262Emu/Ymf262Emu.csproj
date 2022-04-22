@@ -1,6 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
 		<TargetFramework>net6.0</TargetFramework>
+		<Nullable>enable</Nullable>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<Description>C# port of Java YMF262 OPL2/3 emulator.</Description>
 		<PackageLicenseExpression>LGPL-2.1-or-later</PackageLicenseExpression>
